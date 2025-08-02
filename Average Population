@@ -1,0 +1,4 @@
+SELECT ROUND(AVG(POPULATION)) FROM CITY
+
+
+-- ROUND() is used to rounded down to the nearest integer in Aggregate functions
